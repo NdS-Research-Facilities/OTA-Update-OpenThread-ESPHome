@@ -61,7 +61,7 @@ openthread:
 - Make sure to replace anything with square brackets (remove the square brackets too). For the TLV you can find this in Home Assistant by navigating `Settings > Devices and Integrations > Thread > Config wheel button > (i) button > the TLV is the long string after, Active dataset TLVs:`
     - [More documentation on the OpenThread implementation can be found here](https://esphome.io/components/openthread/)
 - Press `INSTALL`, found right top corner.
-- Press `Plug into this computer`.
+- Press `Manual download`.
 - Wait for the download to be prepared and downloaded.
     - This might take long, depending on the hardware that ESPHome is running on, especially if that is a Raspberry Pi.
 - Press `Open ESPHome Web`.
