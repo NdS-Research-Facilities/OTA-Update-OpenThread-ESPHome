@@ -43,6 +43,7 @@ esp32:
 
 # Enable logging
 logger:
+  hardware_uart: USB_SERIAL_JTAG # ESP32-H2 has a non-default logging through USB-C setup, this will enable logging through USB-C
 
 # Enable Home Assistant API
 api:
